@@ -32,9 +32,9 @@ button:hover {
     /* borda com cantos arredondados*/
     border-radius: 50%;
     /* largura */
-    width: 100px;
+    width: 300px;
     /* altura */
-    height: 100px;
+    height: 300px;
     /* espaçamento externo abaixo */
     margin-bottom: 10px;
 }
